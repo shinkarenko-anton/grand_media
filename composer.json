@@ -1,0 +1,5 @@
+{
+    "require": {
+        "olegkoval/php-user-info": "dev-master"
+    }
+}

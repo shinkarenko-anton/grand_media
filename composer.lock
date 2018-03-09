@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "36316e181eac30997b275a41eca839b3",
+    "packages": [
+        {
+            "name": "olegkoval/php-user-info",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/olegkoval/php-user_info.git",
+                "reference": "50e77cbeb06af3f5fa053eeeaddef493efa2f5b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/olegkoval/php-user_info/zipball/50e77cbeb06af3f5fa053eeeaddef493efa2f5b9",
+                "reference": "50e77cbeb06af3f5fa053eeeaddef493efa2f5b9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Oleg Koval",
+                    "email": "contact@olegkoval.com",
+                    "homepage": "http://olegkoval.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Get information about user which visited page of your website",
+            "homepage": "https://github.com/olegkoval/php-user_info",
+            "keywords": [
+                "IP",
+                "os",
+                "referer",
+                "reverse DNS",
+                "user info",
+                "visitor info"
+            ],
+            "time": "2017-08-01T22:50:52+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "olegkoval/php-user-info": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

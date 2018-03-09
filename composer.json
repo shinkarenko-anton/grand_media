@@ -1,4 +1,14 @@
 {
+    "name": "userstat",
+    "license": "Apache-2.0",
+    "type": "project",
+    "description": "userstat",
+    "autoload": {
+        "psr-0": { "": "/" },
+        "classmap": [
+            "vendor/olegkoval/php-user-info/UserInfo.php"
+        ]
+    },
     "require": {
         "olegkoval/php-user-info": "dev-master"
     }
